@@ -43,11 +43,11 @@ PrefsRevisionGUID=
 [Document1]
 DocumentPath=KeyboardMatrix.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=0
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
+AnnotateScope=Only Selected Parts
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -56,6 +56,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGWGZRBO
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PET2001N_Keyboard\Design Rule Check - Test.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -951,7 +955,7 @@ L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
-SortLocation=0
+SortLocation=1
 ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
