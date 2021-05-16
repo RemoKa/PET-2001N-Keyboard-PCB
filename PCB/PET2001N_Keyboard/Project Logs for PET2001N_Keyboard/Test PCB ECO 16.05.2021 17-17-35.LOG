@@ -1,0 +1,6 @@
+Added Component: Designator=*(PET2001NKeyboardSoftButton)
+Added Pin To Net: NetName=NetLabel1 Pin=*-2
+Added Net: Name=NetLabel1
+Added Pin To Net: NetName=NetLabel2 Pin=*-1
+Added Net: Name=NetLabel2
+Added Class: Name=KeyboardMatrix
