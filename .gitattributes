@@ -10,3 +10,4 @@
 *.SchLib binary
 *.BomDoc text eol=crlf
 *.OutJob text eol=crlf
+*.tif filter=lfs diff=lfs merge=lfs -text
